@@ -60,9 +60,4 @@ Want more challenges or have feedback?
 
 Good luck, Agent.
 
-```
 
----
-
-Let me know if you want to add multiple levels or host it online for public play.
-```
