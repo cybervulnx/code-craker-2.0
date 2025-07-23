@@ -3,7 +3,7 @@
 
 Welcome, Agent.
 
-You've just accessed **RedBox**, a simulated surveillance portal with hidden layers of information. This CTF (Capture The Flag) challenge is crafted for budding cyber enthusiasts, OSINT explorers, and penetration testers to test their curiosity and skills.
+You've just accessed **RedBox**, a simulated surveillance portal with hidden layers of information. This CTF (Capture The Flag) challenge is crafted for budding cyber enthusiasts, and penetration testers to test their curiosity and skills.
 
 ---
 
